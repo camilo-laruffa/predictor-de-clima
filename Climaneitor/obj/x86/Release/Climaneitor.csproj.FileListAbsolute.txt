@@ -1,0 +1,9 @@
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Prediccion.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Main.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.CargarDatos.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\Climaneitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

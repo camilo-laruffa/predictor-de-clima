@@ -1,0 +1,19 @@
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Climaneitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Prediccion.resources
+C:\Users\Camilo Laruffa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CargarDatos.resources
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\bin\Debug\Climaneitor.exe
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\bin\Debug\Climaneitor.pdb
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.Prediccion.resources
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.Main.resources
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.CargarDatos.resources
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.Properties.Resources.resources
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.exe
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.pdb
+C:\Users\Camilo Laruffa\documents\visual studio 2010\Projects\Climaneitor\Climaneitor\obj\x86\Debug\Climaneitor.csprojResolveAssemblyReference.cache

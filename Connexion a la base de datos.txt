@@ -1,0 +1,4 @@
+Para que el programa funcione, ejecute la query "QueryClimaneitor.sql" en SQL Server 2008 o más.
+Luego dirijase a la solucion "Climaneitor" y en la clase "BaseDatos" cambie la variable "conn_string" en la parte
+que dice "DESKTOP-27IKLOP" por su nombre de host.
+El cual puede ser obtenido escribiendo "hostname" en el cmd.
